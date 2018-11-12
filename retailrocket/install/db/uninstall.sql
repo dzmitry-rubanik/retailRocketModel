@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `retail_rocket_model`;

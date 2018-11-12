@@ -1,0 +1,1 @@
+CREATE TABLE retail_rocket_model (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, product_id INT, date DATETIME, coefficient FLOAT, action VARCHAR(256));
